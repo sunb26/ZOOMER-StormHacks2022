@@ -9,7 +9,6 @@ from google.api_core.exceptions import InvalidArgument
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "zoomerJSONFile.json"
 
 ## FLAG ----------------------------------------------------
-DIALOGFLOW_PROJECT_ID = 'zoomer-341817'
 DIALOGFLOW_LANGUAGE_CODE = 'en'
 
 
@@ -53,14 +52,11 @@ def return_sms():
         #     json.dump(users, db)
 
         return Response(str(response), mimetype="text/xml")
-
-    response.message("Ok Bye!")
-    return Response(str(response), mimetype="text/xml")
-    #------Execute NLP Stuff to figure out intent
+    else:
 
 
+        return Response(str(response), mimetype="text/xml")
 
-    #return Response(str(response), mimetype="text/xml")
 
 
 def detect_intent_texts(session_id, text, language_code):
