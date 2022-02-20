@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "zoomer-341817",
+  "private_key_id": "2ca3f12053b5f7dea58165aec3d711ff6bfcc4f2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDg0NwHLMKiqQnp\n+rFSoVxerTCSDFNATJmWehYiw06/tKUwif9NIQkuPkzaabOjd5RiT7OBO73T/ZCy\nkJR+kPVlMjZOgw8ab9aEcp3egcpWaaprkUNjMR2hfo1Ux9jvjEHdsPRSbn469tXc\ntKDFe7aikokFG21pinMY1zQt+gwBgfpB5/OeiifErTNtRujaZ7ODFZXUKOXgWvmJ\nmYfxspAKi8GC5vdGFIDSwKr9PrB070wapxK3MOajh1z2ZRot6+qfzVmp75RO9WjI\n/I6izvWXnI/1oozAsSBvrbbRZy+Oi3iorSx5uMKhbWTgkXQIEVcTvq2IS01WcF/B\nYUSj2wiDAgMBAAECggEACmq/5aWcmsZKLmk01Tc8qfbMoaY1J1Ortc32mTbDWKoW\nRQKbIOfieB35fqqK+qYvhHZDKYseN4sjLMfHpOB/ozUP6iEz6A3KYVaHdSHYQWfI\nNnX2xH5bbDokDCUhREkTj9VDhOkX+Hbehi/PPhQgH5yHNJ4TbeJoUeLXr2rlXbgI\nKCdq9yIQtQptFl0hHLcs5sjuWJiH1MxRJ5Zs5hOpZgafrafpVkTJWq0B2UAZFaxR\nrBj6+p1n9KduztypL1+PkGHpbX0YcJ2gDjC9igD1czynGYkbBeH9S97xQBW02+FM\nTcaA1sNBAyNDy1O7vurZgwN+z8BRsgfKq/Uaz47oZQKBgQDwa58DsF6INNWbwNQI\n7iG0wjaojhevQ3vVLRGCbqRBdXEyUCQW86xd6qw7asQ8E0c27xU4vPuWt3utVeMu\n/2dCcl7lxbTTCdHGdpddFY/JjOwIoWJT36Y3jVYGAQN9sWuOUQBT8XD001DSMbWz\ntt9SAP3oTR7de9zDVS+gwzlexQKBgQDvYl8qge60B6hoAG3TuHzbgpPJLF2SY9ZW\nIgtU36o+FeguG/37I9psNdoJqbu8M2h9ZluHetRB+1saDOFg2yXl95tM732FD4SC\nCpH/Y2hodh2LgMdcoe7dOoCZxaCxKko6WxSUCjDGVAb/VQpqKiWmdtPNwAoYxijk\nlL7Dsji+pwKBgF8tq/kQ5Iu1pu8PSqHybCOcU3ktL5Ex/R8qxWjGln5XmSWa9n6j\nnxRbKC4pmWBTHXlQ8yzQHCXRo8O+Yb8kW2PB1XHPcEOv+n1AS7INLCxVfsf34+5i\ndvI9INYlppUnHPZteNzCk75IvhFInq9z8TsMq3hAt7xlIcOuwLk7MEYlAoGBAMur\nJ4rT95KmfUrXKpoa+egNRc3AeHBHjyHDX1672W1vWBZ67HFTBNBSVQsppTeviXQ/\ntRokkBj/UXhtgwfUDH+HVlNz45hlJnk5oxPlsPxHmkWJsJUIlWEWGDo8ocZ6U6Mo\nwO5faTYkYbu1z+GZsGTb7sK8ZBrF5h7syw1XQd47AoGBAMIBizuC3SuprWcfhtA6\n4SIZKRW1a0JlEZk6olPGNsZujoOx4G5XESlIzmoMbiyRv7iwpEN+XIjQ6lPgMXRu\nOo5c2dLliieU5kerdA2xz2Oq74nxKlr1G7bkvPNCpWNdFuZ6yDqT1T4oUgpaslmo\nfTDiusEQfFdi6Bote86Vs0F6\n-----END PRIVATE KEY-----\n",
+  "client_email": "zoomer@zoomer-341817.iam.gserviceaccount.com",
+  "client_id": "102605917274579442390",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/zoomer%40zoomer-341817.iam.gserviceaccount.com"
+}
