@@ -3,13 +3,7 @@
 ## How we built it
 In no particular order...
 
-Twilio
-Python
-Flask Framework
-DialogFlow by Google Cloud
-Alpha Vantage API
-Finnhub API
-Shell
+Twilio, Python, Flask Framework, DialogFlow by Google Cloud, Alpha Vantage API, Finnhub API, Shell
 
 
 # Inspiration
